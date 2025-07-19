@@ -157,5 +157,3 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## 💬 Questions or Support?
 
 Open an issue or contact the Aidnox team at [support@aidnox.ai](mailto:hamza.00dev1@gmail.com)
-
-```
